@@ -1,0 +1,103 @@
+{
+    "dynamoTableName": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "meter": {
+                        "N": "78914"
+                    },
+                    "date": {
+                        "N": "1668533400"
+                    },
+                    "dateISO": {
+                        "S": "2022-11-15T17:30"
+                    },
+                    "month": {
+                        "S": "Jan"
+                    },
+                    "weekday": {
+                        "S": "Sun"
+                    },
+                    "year": {
+                        "N": "2022"
+                    },
+                    "user": {
+                        "S": "test"
+                    },
+                    "label": {
+                        "S": "home"
+                    },
+                    "temp": {
+                        "N": "39.8"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "meter": {
+                        "N": "78918"
+                    },
+                    "date": {
+                        "N": "1668596400"
+                    },
+                    "dateISO": {
+                        "S": "2022-11-16T11:00"
+                    },
+                    "month": {
+                        "S": "Jan"
+                    },
+                    "weekday": {
+                        "S": "Mon"
+                    },
+                    "year": {
+                        "N": "2022"
+                    },
+                    "user": {
+                        "S": "test"
+                    },
+                    "label": {
+                        "S": "home"
+                    },
+                    "temp": {
+                        "N": "43.7"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "meter": {
+                        "N": "78921"
+                    },
+                    "date": {
+                        "N": "1668601380"
+                    },
+                    "dateISO": {
+                        "S": "2022-11-16T12:23"
+                    },
+                    "month": {
+                        "S": "Jan"
+                    },
+                    "weekday": {
+                        "S": "Mon"
+                    },
+                    "year": {
+                        "N": "2022"
+                    },
+                    "user": {
+                        "S": "test"
+                    },
+                    "label": {
+                        "S": "home"
+                    },
+                    "temp": {
+                        "N": "43.6"
+                    }
+                }
+            }
+        }
+    ]
+}
